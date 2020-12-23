@@ -1,0 +1,67 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/src/SoulGem/include",
+                "c:/src/SoulGem/src",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/cores/tiny",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/variants/tinyX5",
+                "C:/Users/matkin/.platformio/lib/NeoPixelBus/src",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/ATTinyCore/src",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/EEPROM",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/SPI",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo/src",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo_ATTinyCore/src",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/SoftwareSerial",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/Wire/src",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel",
+                "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel_Static",
+                "C:/Users/matkin/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/src/SoulGem/include",
+                    "c:/src/SoulGem/src",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/cores/tiny",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/variants/tinyX5",
+                    "C:/Users/matkin/.platformio/lib/NeoPixelBus/src",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/ATTinyCore/src",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/EEPROM",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/SPI",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo/src",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/Servo_ATTinyCore/src",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/SoftwareSerial",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/Wire/src",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel",
+                    "C:/Users/matkin/.platformio/packages/framework-arduino-avr-attiny/libraries/tinyNeoPixel_Static",
+                    "C:/Users/matkin/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50003",
+                "ARDUINO_AVR_ATTINYX5",
+                "F_CPU=1000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATtiny85__",
+                ""
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/matkin/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=attiny85",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
