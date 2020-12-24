@@ -14,4 +14,4 @@ Watchdog timer code modified from Alex at https://www.youtube.com/watch?v=Ob5fHh
 7. (optional) if you go with a higher voltage power supply, you'll need an appropriate resistor for the LED.
 
 ## Wiring
-![Wiring Diagram](.\images\circuit.png)
+![Wiring Diagram](images/circuit.png)
